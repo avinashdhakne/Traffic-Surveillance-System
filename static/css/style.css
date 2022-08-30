@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 1000vh;
+}
+
+.navbar-style{
+    box-shadow: 0 5px 10px whitesmoke;
+    text-transform: uppercase;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.logo{
+  height: 48px;
+  padding: 2px 10px;  
+}
+
+.icon-bar{
+    background: darkblue;
+}
+li a{
+    color: black;
+}
+.big-text{
+    font-size: 52px;
+    margin: 20px 0;
+    color: darkblue;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+a.btn-first{
+    background-color: darkblue;
+    color: whitesmoke;
+}
+
+a.btn-second{
+    background: transparent;
+    border: 1px solid darkblue;
+}
+a.btn:hover{
+    background: darkgreen;
+    border: none;
+    color: whitesmoke;
+    box-shadow: 5px 5px 5px;
+
+}
+.banner-info, .banner-img{
+    margin: 30px 0;
+
+}
+.row{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.button-88:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #FF0000;
+  }
+  
+  .button-88:active {
+    box-shadow: 0 0.3em 1em -0.5em #FF0000;
+  }
